@@ -1,0 +1,4 @@
+node_moduels/
+dist/
+!dist/index.html
+package_lock.json
