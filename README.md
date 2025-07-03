@@ -1,4 +1,4 @@
-## Vue 3 starter project for [Code App](https://github.com/codeapp)
+## Vue 3 starter project for [Code App](https://github.com/thebaselab/codeapp)
 
 [![Stars](https://img.shields.io/github/stars/YzevDev/VueStarter?style=flat-square)](https://github.com/YzevDev/VueStarter/stargazers)
 
